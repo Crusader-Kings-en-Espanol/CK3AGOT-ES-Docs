@@ -1,0 +1,88 @@
+﻿l_spanish:
+###########################################################################
+###########################################################################
+##                                                                       ##
+##          MODIFICADO PARA EL MOD A GAME OF THRONES EN ESPAÑOL          ##
+##                POR GUNDISALVUS Y MICHAERYS "EL CUERVO"                ##
+##                     NOMBRE DEL ARCHIVO / CONTENIDO                    ##
+##                                                                       ##
+###########################################################################
+
+########################## LLAVES MISCELÁNEAS #############################
+ clave_suelta_uno: "Primera llave miscelánea."
+ clave_suelta_dos: "Segunda llave miscelánea."
+###########################################################################
+
+######################## NOMBRE DE LA SECCIÓN UNO ##########################
+ ### Nombre de la Subsección 1.1
+ clave_ejemplo_uno_desc: "Primera entrada de la subsección."
+
+ clave_ejemplo_dos_desc: "Segunda entrada de la subsección."
+
+ ### Nombre de la Subsección 1.2
+ clave_ejemplo_tres_desc: "Primera entrada de la nueva subsección."
+###########################################################################
+
+######################## NOMBRE DE LA SECCIÓN DOS ##########################
+ ### Nombre de la Subsección 2.1
+ clave_ejemplo_cuatro_desc: "Primera entrada de la subsección."
+###########################################################################
+
+## REGLAS PARA AUTOMATIZACIÓN
+
+# 1. El objetivo es segmentar y organizar visualmente el archivo. No modificar,
+#    traducir, corregir, renombrar, eliminar ni añadir ninguna llave o localización.
+
+# 2. Mantener todas las llaves exactamente en su orden original y conservar
+#    íntegramente el contenido situado entre comillas.
+
+# 3. Agrupar las llaves según su temática o función. Crear una sección principal
+#    para cada grupo claramente diferenciado y subsecciones cuando dentro de una
+#    sección existan grupos más específicos.
+
+# 4. Las llaves que no pertenezcan claramente a ninguna categoría deben colocarse
+#    en LLAVES MISCELÁNEAS, respetando siempre su orden original.
+
+# 5. No crear regiones o subsecciones innecesarias. Si una llave puede incorporarse
+#    razonablemente a un grupo existente, debe permanecer dentro de ese grupo.
+
+# 6. Ninguna fila completa de "#" utilizada como banner o separador lleva sangría.
+#    Los títulos de subsección y todas las llaves llevan exactamente 1 espacio inicial.
+
+# 7. El título de cada sección debe seguir este formato y tener 75 caracteres:
+#    ######################## NOMBRE DE LA SECCIÓN ########################
+
+# 8. Cada subsección debe seguir este formato:
+#     ### Nombre de la Subsección
+#    No dejar una línea en blanco entre el título de la subsección y su primera llave.
+
+# 9. Dentro de una subsección, separar cada entrada de la siguiente con exactamente
+#    1 línea en blanco.
+
+# 10. Entre dos subsecciones de una misma sección debe haber exactamente 1 línea
+#     en blanco.
+
+# 11. Las llaves de LLAVES MISCELÁNEAS son la única excepción: deben colocarse
+#     consecutivamente, sin líneas en blanco entre ellas.
+
+# 12. La última llave de cada sección debe ir inmediatamente seguida por la fila
+#     completa de "#" que cierra la sección, sin una línea en blanco entre ambas.
+
+# 13. Después del cierre de una sección debe haber exactamente 1 línea en blanco
+#     antes del título de la siguiente sección.
+
+# 14. No añadir ningún encabezado, comentario, separador o formato distinto de
+#     los definidos en esta plantilla.
+
+# 15. Los símbolos "#" delante de llaves de ejemplo existen únicamente para evitar
+#     que CK3 las interprete como localizaciones reales. Al procesar un archivo real,
+#     conservar las llaves activas y nunca añadirles "#" al comienzo.
+
+# 16. El banner superior debe conservar exactamente la estructura mostrada en esta
+#     plantilla: 2 filas completas de "#", 5 líneas interiores y 1 fila de cierre.
+
+# 17. El archivo final debe utilizar codificación UTF-8 con BOM, saltos de línea CRLF y un espacio de sangría.
+
+# 18. REGLA FUNDAMENTAL: la segmentación solo puede modificar la organización visual
+#     del archivo. Todas las llaves y sus valores deben permanecer exactamente iguales
+#     a los del archivo original.
